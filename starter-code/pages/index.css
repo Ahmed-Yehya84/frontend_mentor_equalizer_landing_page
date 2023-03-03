@@ -1,0 +1,27 @@
+/* normalize.css */
+@import url(../vendor/normalize.css);
+/* root */
+@import url(../blocks/root/root.css);
+/* page */
+@import url(../blocks/page/page.css);
+
+/* header block */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__background/header__background.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__text/header__text.css);
+
+/* main */
+
+@import url(../blocks/main/main.css);
+@import url(../blocks/main/__background/main__background.css);
+@import url(../blocks/main/__illustration/main__illustration.css);
+@import url(../blocks/main/__subscription/main__subscription.css);
+@import url(../blocks/main/__text/main__text.css);
+@import url(../blocks/main/__paragraph/main__paragraph.css);
+@import url(../blocks/main/__price/main__price.css);
+@import url(../blocks/main/__price/_size/main__price_size_large.css);
+@import url(../blocks/main/__button/main__button.css);
+@import url(../blocks/main/__button/_type/main__button_type_ios.css);
+@import url(../blocks/main/__button/_type/main__button_type_android.css);

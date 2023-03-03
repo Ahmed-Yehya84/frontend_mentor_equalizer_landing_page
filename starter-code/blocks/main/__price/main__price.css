@@ -1,0 +1,12 @@
+.main__price {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: -0.2;
+  color: #fcfaf9;
+  margin: 0 227px 47px 54px;
+  width: 165px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+}

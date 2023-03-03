@@ -1,0 +1,9 @@
+.main__subscription {
+  width: 446px;
+  height: 625px;
+  background-color: #fa7453;
+  border-radius: 12px;
+  position: absolute;
+  top: 90px;
+  right: 95px;
+}

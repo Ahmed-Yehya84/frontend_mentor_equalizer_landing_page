@@ -1,0 +1,8 @@
+.main__background {
+  max-width: 312;
+  height: 468px;
+  margin: 0 462px 172px 336px;
+  position: absolute;
+  top: -40px;
+  z-index: 0;
+}

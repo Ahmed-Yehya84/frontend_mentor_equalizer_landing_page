@@ -1,0 +1,10 @@
+.header__title {
+  grid-row: 2;
+  grid-column: span 2;
+  font-weight: 700;
+  font-size: 88px;
+  letter-spacing: -1px;
+  color: #191826;
+  height: 176px;
+  margin: 0 0 40px 165px;
+}
