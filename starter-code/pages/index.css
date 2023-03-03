@@ -32,3 +32,8 @@
 /* footer block */
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright/_bold/footer__copyright_bold.css);
+@import url(../blocks/footer/__icon-list/footer__icon-list.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
