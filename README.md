@@ -1,5 +1,7 @@
 # Frontend Mentor - Equalizer landing page
 
+## live version: https://ahmed-yehya84.github.io/frontend_mentor_equalizer_landing_page/
+
 ### screenshot:
 
 <a href="https://ibb.co/bQhxG2x"><img src="https://i.ibb.co/ZGs3bY3/screencapture-127-0-0-1-5500-starter-code-index-html-2023-03-03-14-34-58.png" alt="screencapture-127-0-0-1-5500-starter-code-index-html-2023-03-03-14-34-58" border="0"></a>
