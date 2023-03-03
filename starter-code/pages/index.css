@@ -5,6 +5,9 @@
 /* page */
 @import url(../blocks/page/page.css);
 
+/* logo block */
+@import url(../blocks/logo/logo.css);
+
 /* header block */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -25,3 +28,7 @@
 @import url(../blocks/main/__button/main__button.css);
 @import url(../blocks/main/__button/_type/main__button_type_ios.css);
 @import url(../blocks/main/__button/_type/main__button_type_android.css);
+
+/* footer block */
+
+@import url(../blocks/footer/footer.css);
