@@ -1,3 +1,4 @@
-.main__button_type_ios {
-  width: 17.08px;
+.main__button_type_ios:focus,
+.main__button_type_ios:hover {
+  background-color: #66e2dc;
 }

@@ -1,5 +1,6 @@
 .footer__list-item {
   margin-right: 20px;
+  cursor: pointer;
 }
 
 .footer__list-item:last-child {

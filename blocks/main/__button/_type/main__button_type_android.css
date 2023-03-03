@@ -1,3 +1,4 @@
-.main__button_type_android {
-  width: 16.7px;
+.main__button_type_android:hover,
+.main__button_type_android:focus {
+  background-color: #ffb964;
 }
